@@ -1,0 +1,46 @@
+tres categorias de realidad aumentada ar social. 4 Mbytes
+realidad aumentada web +4 MBytes ibot, motores de juegos
+realidad aumentada apps 
+realidad mixta
+
+DONDE FUNCIONAN LOS FILTROS.
+messanger
+facebook
+instagram
+oculus
+portal
+
+ATAJOS
+LOCALIZAR EL OBJETO
+SELECCIONAR EL OBJETO, VIEW PORT, TECLA F, 
+ROTACION TECLA R
+TRASLACION TECLA E
+ESCALA TECLA L
+ORBITA CLICK DERECHO SOSTENIDO, 
+
+TEST ON DEVICES SUBE EL CONTENIDO A FACE O INSTAGRAM MANDA UN LINK (TEST LINK 24 HORAS O 50 USOS)
+META SPARKPLAYER SE QUEDAN GUARDADOS LOS EFECTOS SOLO PARA NOSOSTROS PRUEBAS.
+
+tipos de luces
+luz ambiental afecta todo en todas direcciones no genera sombras.
+luz direccional(sol) afecta a dos los objetos en una dirección
+
+facetracker
+planetracker
+handtracker
+bobytracker
+targettracker
+
+para que los materiales se muestren en la dos caras
+en coloca seleccinar materias -> propiedades -> double Sided coll.
+coll dobble sided
+
+VALORES DEL 0 AL 1 PORCENTAJES
+
+TILLING OPTIONS
+TILE ESCALA DE LA IMAGEN
+
+COORDENADAS UUV INDICAN QUE VERTICE PERTENECE A LA PARTE DE LA IMAGEN
+
+https://sparkar.facebook.com/ar-studio/learn/articles/people-tracking/face-reference-assets/
+BRUNIROWS CODE EN YOUTUBE
