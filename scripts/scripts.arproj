@@ -917,7 +917,7 @@
                       },
                       "cameraVisibility": 3,
                       "castShadow": false,
-                      "hidden": false,
+                      "hidden": true,
                       "horizontalAlignment": 1,
                       "horizontalSpacing": 0,
                       "identifier": "plane:95102-2837e49e-7934-47d3-8715-54e485720f17",
